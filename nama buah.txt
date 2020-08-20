@@ -1,2 +1,3 @@
 nama nama buah :
 1. apel
+2. anggur
